@@ -1,3 +1,3 @@
-module github.com/nikitadanilov/collection/v2
+module github.com/nikitadanilov/collection
 
 go 1.21.0
